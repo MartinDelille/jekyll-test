@@ -29,7 +29,7 @@ def create_box(public_key)
   }
 end
 
-repo = client.repo 'atelierdesmedias/atelierdesmedias.github.io'
+repo = client.repo 'martindelille/jekyll-test'
 
 secret = { name: 'BONOBO', value: new_token }
 public_key = client.get_public_key(repo.id)
