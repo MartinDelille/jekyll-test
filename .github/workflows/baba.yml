@@ -17,5 +17,4 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: echo babaorum
       - run: echo ${{ github.repository }}
