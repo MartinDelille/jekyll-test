@@ -18,3 +18,4 @@ jobs:
 
     steps:
       - run: echo babaorum
+      - run: echo ${{ github.repository }}
