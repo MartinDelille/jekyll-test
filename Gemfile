@@ -1,8 +1,6 @@
 source "https://rubygems.org"
 
-gem "minima", "~> 2.0"
-gem "github-pages", group: :jekyll_plugins
-
-group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.6"
-end
+gem 'faraday-retry', '~> 2.0.0'
+gem "minima", "~> 2.5.1"
+gem 'octokit', '~> 6.0.1'
+gem 'rbnacl', '~> 7.1.1'
