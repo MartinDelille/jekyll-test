@@ -4,7 +4,7 @@ import moment from 'moment';
 // Your hosting provider likely exposes this as an environment variable
 const BRANCH = "main";
 const CLIENT_ID = "014b5c61-c8b3-4ee8-9213-bef2802bde08";
-const TOKEN = "014b5c61-c8b3-4ee8-9213-bef2802bde08";
+const TOKEN = "ede6f2dd1b0089edd05dc0e4531832385b4e9c7a";
 
 export default defineConfig({
   branch: BRANCH,
