@@ -2,9 +2,9 @@ import { defineConfig } from "tinacms";
 import moment from 'moment';
 
 // Your hosting provider likely exposes this as an environment variable
-const BRANCH = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
-const CLIENT_ID = String(process.env.TINA_CLIENT_ID ?? '');
-const TOKEN = String(process.env.TINA_TOKEN ?? '');
+const BRANCH = "main";
+const CLIENT_ID = "014b5c61-c8b3-4ee8-9213-bef2802bde08";
+const TOKEN = "014b5c61-c8b3-4ee8-9213-bef2802bde08";
 
 export default defineConfig({
   branch: BRANCH,
