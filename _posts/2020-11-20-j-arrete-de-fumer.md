@@ -7,4 +7,4 @@ categories: santé bonheur
 
 Dans le froid hiver, mes fenêtres fermées ont eu raison de cette addiction stupide.
 
-![](<https://assets.tina.io/014b5c61-c8b3-4ee8-9213-bef2802bde08/Screen Shot 2023-05-01 at 4.25.38 PM.png>)
+![](<https://assets.tina.io/014b5c61-c8b3-4ee8-9213-bef2802bde08/Screen Shot 2023-05-01 at 4.17.48 PM.png>)
