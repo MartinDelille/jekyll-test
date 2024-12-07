@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/MartinDelille/jekyll-test#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.6.3",
-    "tinacms": "^1.5.15"
+    "@tinacms/cli": "^1.6.12",
+    "tinacms": "^2.5.0"
   }
 }
